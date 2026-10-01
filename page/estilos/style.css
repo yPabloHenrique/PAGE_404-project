@@ -15,10 +15,6 @@
         flex-direction: column;
         flex-wrap: wrap;
     }
-
-    main {
-        height: auto;
-    }
 }
 
 * {
